@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace automatebuild
 {
-    public partial class Form1 : Form
+    public partial class BackupFileToGDrive : Form
     {
-        public Form1()
+        public BackupFileToGDrive()
         {
             InitializeComponent();
         }

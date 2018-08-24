@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "automatebuild", "automatebuild\automatebuild.csproj", "{DA6996F9-2F81-4BB9-862F-24ED1EEEFF5F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackupFileToGDrive", "automatebuild\BackupFileToGDrive.csproj", "{DA6996F9-2F81-4BB9-862F-24ED1EEEFF5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
